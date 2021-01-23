@@ -1,0 +1,29 @@
+/**abcde"int*he *int *hong
+chuanhi**/
+/***/
+//你好
+#include<s $tdio.h>
+#d$efine hi 2
+#hehongchuan
+int main(){
+    int b=1;
+    char ab[10][20];
+    char c[10];
+    double _a[2];
+    2a[100]++;
+    a=3.14e;
+    b=a@;
+    c=3.3.2;
+    c:=3;
+    b=3.14e5;
+    c=3.13e5.3
+    b=_a[c[2]];
+    if(a<b){
+        a=1.
+        b=3.1.4;
+        c=3.53e3.4
+    }
+    return 0;
+}
+
+int hilahi;
